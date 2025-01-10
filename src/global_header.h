@@ -61,8 +61,8 @@
 void initIRArray();
 void readIRArray();
 void printArray();
-bool leftDominant();
-bool rightDominant();
+String leftDominant();
+String rightDominant();
 char centreCharacter();
 bool checkStopMotors();
 
